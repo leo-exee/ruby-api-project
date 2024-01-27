@@ -16,11 +16,11 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/pokemon-league-crud.git
+git clone https://github.com/leo-exee/ruby-api-project.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd pokemon-league-crud
+cd ruby-api-project
 ```
 3. Install dependencies:
 ```bash
